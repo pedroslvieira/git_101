@@ -1,0 +1,15 @@
+body { 
+	font-family: Helvetica;
+	margin: 0;
+}
+
+#logo {
+	height: 100px;
+	width: 100px;
+}
+
+#container {
+	text-align: center;
+	margin-top: 200px;
+
+}
